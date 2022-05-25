@@ -1,4 +1,4 @@
 env/*
 scraped_content/*
 .ipynb_checkpoints/*
-
+chromedriver_win32/*
