@@ -3,3 +3,6 @@ scraped_content/*
 .ipynb_checkpoints/*
 chromedriver_win32/*
 *.csv
+pqs_pickle_raw
+*.7z
+*~
